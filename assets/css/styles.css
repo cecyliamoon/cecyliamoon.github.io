@@ -1,0 +1,9 @@
+.imagen{
+    height: 80%;
+    border-color: black;
+}
+
+.imagen_baja{
+    height: 20%;
+    border-color: blue;
+}
